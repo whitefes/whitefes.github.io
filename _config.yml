@@ -1,17 +1,12 @@
 name: whitefes
 author: whitefes
 baseurl: /
-description: theme for jekyll
-github: http://www.github.com/arnp
+description: 정리할 필요가 있었어요.
+github: http://www.github.com/whitefes
 twitter: http://www.twitter.com/
 facebook: http://www.facebook.com
 linkedin: http://www.linkedin.com
 email: 
-location: 42°2'16"N   70°12'47"W
-disqus: diqus-username
-
-##Make sure to edit the above fields, especially for disqus.
-
 
 highlighter: pygments
 markdown: redcarpet
